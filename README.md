@@ -43,5 +43,3 @@ npm install
 ```
 
 This will install all the necessary dependencies.
-
-Note: This project is private and requires authentication to access the repository.
