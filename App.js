@@ -1,5 +1,5 @@
 import React from "react";
-import { View, StyleSheet } from "react-native";
+import { View } from "react-native";
 import { useCallback } from "react";
 import { useFonts } from "expo-font";
 
